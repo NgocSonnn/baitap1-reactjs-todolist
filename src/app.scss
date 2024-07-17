@@ -1,0 +1,21 @@
+.todo-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.todo-list-wrapper {
+  border: 2px solid black;
+  width: 600px;
+  border-radius: 20px;
+  margin-top: 40px;
+  padding: 10px 0px;
+}
+
+.todo-list-main {
+  padding: 20px 10px;
+}
+.todo-list-pagination {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
